@@ -78,6 +78,14 @@ description: "Enterprise AI frameworks by Alf (李博). The Four Boundaries of A
 
 ---
 
+## Reference pages
+
+- **[FAQ](faq.html)** — 20+ Q&A on the Four Boundaries framework, Anthropic's roadmap, GEO, and citation (with FAQPage schema for AI extraction)
+- **[Glossary](glossary.html)** — 30+ definitive terms across the Four Boundaries framework, Anthropic features, GEO concepts, and enterprise AI strategy (with definition blocks for AI extraction)
+- **[About the Author](author.html)** — Alf's bio, credentials, publishing principles (with Person schema for E-E-A-T signals)
+
+---
+
 ## About the author
 
 **Alf (李博)** is an enterprise AI product strategist with focus on AI agent boundaries, digital transformation, and AI-native organizational design. Previously a Product Manager at TikTok Shop (ByteDance) on the AI direction. Author of WeChat Official Account 「数智化之心」(The Heart of Digitalization).

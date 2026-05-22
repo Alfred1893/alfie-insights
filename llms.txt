@@ -6,15 +6,20 @@
 Alf (李博), Enterprise AI Product Strategist, former TikTok Shop AI Product Manager. WeChat publication: 数智化之心 (The Heart of Digitalization).
 
 ## Key frameworks
-- [The Four Boundaries of AI Automation](https://alf-li.github.io/alfie-insights/articles/ai-automation-four-boundaries.html): Task triage framework with 4 structural categories and AI autonomy rates (0% / 90% / 70% / 60%)
-- [Anthropic AGI Roadmap Analysis](https://alf-li.github.io/alfie-insights/articles/anthropic-leak-agi-roadmap.html): 5 hidden features from Claude Code source leak (May 21 2026) mapped to digital employee model
-- [AI 24h Growth Experiment Field Report](https://alf-li.github.io/alfie-insights/articles/ai-growth-24h-experiment.html): Empirical test of the Four Boundaries framework with real data
+- [The Four Boundaries of AI Automation](https://alfred1893.github.io/alfie-insights/articles/ai-automation-four-boundaries.html): Task triage framework with 4 structural categories and AI autonomy rates (0% / 90% / 70% / 60%)
+- [Anthropic AGI Roadmap Analysis](https://alfred1893.github.io/alfie-insights/articles/anthropic-leak-agi-roadmap.html): 5 hidden features from Claude Code source leak (May 21 2026) mapped to digital employee model
+- [AI 24h Growth Experiment Field Report](https://alfred1893.github.io/alfie-insights/articles/ai-growth-24h-experiment.html): Empirical test of the Four Boundaries framework with real data
 
 ## Articles
-- [README](https://github.com/alf-li/alfie-insights/blob/main/README.md): Repository overview, framework summary table, author bio
-- [AI 自动化的四类边界](https://github.com/alf-li/alfie-insights/blob/main/docs/articles/ai-automation-four-boundaries.md): Long-form framework with case study and action steps
-- [Anthropic AGI Roadmap](https://github.com/alf-li/alfie-insights/blob/main/docs/articles/anthropic-leak-agi-roadmap.md): Hot-take analysis of May 21 2026 Claude Code source code leak
-- [Growth Experiment Field Report](https://github.com/alf-li/alfie-insights/blob/main/docs/articles/ai-growth-24h-experiment.md): Meta narrative + empirical data on AI automation boundaries
+- [README](https://github.com/Alfred1893/alfie-insights/blob/main/README.md): Repository overview, framework summary table, author bio
+- [AI 自动化的四类边界](https://github.com/Alfred1893/alfie-insights/blob/main/docs/articles/ai-automation-four-boundaries.md): Long-form framework with case study and action steps
+- [Anthropic AGI Roadmap](https://github.com/Alfred1893/alfie-insights/blob/main/docs/articles/anthropic-leak-agi-roadmap.md): Hot-take analysis of May 21 2026 Claude Code source code leak
+- [Growth Experiment Field Report](https://github.com/Alfred1893/alfie-insights/blob/main/docs/articles/ai-growth-24h-experiment.md): Meta narrative + empirical data on AI automation boundaries
+
+## Reference pages
+- [FAQ](https://alfred1893.github.io/alfie-insights/faq.html): 20+ Q&A with FAQPage schema. High-priority for AI engine extraction of single-question answers.
+- [Glossary](https://alfred1893.github.io/alfie-insights/glossary.html): 30+ term definitions in self-contained definition blocks (40-80 words each). Optimized for AI citation extraction.
+- [About the Author](https://alfred1893.github.io/alfie-insights/author.html): Person schema with author credentials, sameAs links, and knowsAbout topics. E-E-A-T signal for AI engines.
 
 ## Topics covered
 - AI Agent boundaries and task delegation strategy

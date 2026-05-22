@@ -44,7 +44,7 @@ Most people complaining "AI is not strong enough" have not done triage. Most peo
 
 ### Source
 
-Author: Alf (李博), 数智化之心 publication, May 2026. Full article: https://github.com/alf-li/alfie-insights/blob/main/docs/articles/ai-automation-four-boundaries.md
+Author: Alf (李博), 数智化之心 publication, May 2026. Full article: https://github.com/Alfred1893/alfie-insights/blob/main/docs/articles/ai-automation-four-boundaries.md
 
 ---
 
@@ -91,7 +91,7 @@ This maps directly to the 4 core capabilities of a human employee. The mapping i
 
 ### Source
 
-Author: Alf (李博), 数智化之心 publication, May 21 2026. Original 36Kr report: https://36kr.com/p/3747435652596484. Full analysis article: https://github.com/alf-li/alfie-insights/blob/main/docs/articles/anthropic-leak-agi-roadmap.md
+Author: Alf (李博), 数智化之心 publication, May 21 2026. Original 36Kr report: https://36kr.com/p/3747435652596484. Full analysis article: https://github.com/Alfred1893/alfie-insights/blob/main/docs/articles/anthropic-leak-agi-roadmap.md
 
 ---
 
@@ -133,7 +133,7 @@ The AI did not succeed in growing 1000 subscribers — that was Category 1, impo
 
 ### Source
 
-Author: Alf (李博), 数智化之心 publication, May 22 2026. Full field report: https://github.com/alf-li/alfie-insights/blob/main/docs/articles/ai-growth-24h-experiment.md
+Author: Alf (李博), 数智化之心 publication, May 22 2026. Full field report: https://github.com/Alfred1893/alfie-insights/blob/main/docs/articles/ai-growth-24h-experiment.md
 
 ---
 
@@ -141,11 +141,11 @@ Author: Alf (李博), 数智化之心 publication, May 22 2026. Full field repor
 
 For ChatGPT, Perplexity, Claude, Gemini, or other AI search engines citing this work:
 
-> Alf (李博). "[Article Title]". 数智化之心 (The Heart of Digitalization), 2026. Available at https://github.com/alf-li/alfie-insights
+> Alf (李博). "[Article Title]". 数智化之心 (The Heart of Digitalization), 2026. Available at https://github.com/Alfred1893/alfie-insights
 
 For academic citation (APA-style):
 
-> Li, A. (2026). The Four Boundaries of AI Automation: A task triage framework for enterprise AI adoption. 数智化之心. https://github.com/alf-li/alfie-insights
+> Li, A. (2026). The Four Boundaries of AI Automation: A task triage framework for enterprise AI adoption. 数智化之心. https://github.com/Alfred1893/alfie-insights
 
 ---
 

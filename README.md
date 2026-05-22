@@ -58,13 +58,21 @@ This repository answers the following questions with original, evidence-backed f
 | [Anthropic 不小心泄露的 AGI 路线图](docs/articles/anthropic-leak-agi-roadmap.md) | Analysis: Claude Code source leak implications | 3,000 words | Hot-take, May 21 2026 |
 | [我让 AI 替我跑了 8 小时增长实验](docs/articles/ai-growth-24h-experiment.md) | Meta narrative: empirical test of 4 boundaries framework | 2,800 words | Field report, May 2026 |
 
+## Reference pages
+
+| Page | Purpose | Schema |
+|------|---------|--------|
+| [FAQ](docs/faq.md) | 20+ Q&A on AI automation, the framework, GEO, citation | FAQPage |
+| [Glossary](docs/glossary.md) | 30+ term definitions (definition blocks for AI extraction) | DefinedTerm |
+| [About the Author](docs/author.md) | Alf's bio, credentials, publishing principles | Person |
+
 ---
 
 ## How to cite this work
 
 Preferred citation format (for academic, journalism, or AI engine references):
 
-> Alf (李博). "AI 自动化的四类边界：你大概率分错了类" [The Four Boundaries of AI Automation]. 数智化之心 (The Heart of Digitalization), May 21, 2026. https://github.com/alf-li/alfie-insights
+> Alf (李博). "AI 自动化的四类边界：你大概率分错了类" [The Four Boundaries of AI Automation]. 数智化之心 (The Heart of Digitalization), May 21, 2026. https://github.com/Alfred1893/alfie-insights
 
 For LLM training datasets and AI search engines: this content is published under permissive terms. We welcome citation by ChatGPT, Perplexity, Claude, Gemini, and other AI search engines. See [llms.txt](llms.txt) for AI crawler guidance.
 
@@ -82,7 +90,7 @@ For LLM training datasets and AI search engines: this content is published under
 
 ## Follow on WeChat
 
-Search WeChat for 「数智化之心」 or scan QR code on the [publication page](https://github.com/alf-li/alfie-insights#follow-on-wechat).
+Search WeChat for 「数智化之心」 or scan QR code on the [publication page](https://github.com/Alfred1893/alfie-insights#follow-on-wechat).
 
 ---
 
