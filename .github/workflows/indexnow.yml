@@ -1,0 +1,41 @@
+# Auto-submit sitemap URLs to IndexNow (Bing / Yandex / DuckDuckGo / Seznam / Naver)
+# Triggers: monthly schedule + after every GitHub Pages deploy success
+# Setup: zero — Pages key is in docs/, no manual config needed
+name: IndexNow Sitemap Submission
+
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types: [completed]
+  schedule:
+    - cron: "0 3 1 * *"  # 1st of each month, 03:00 UTC
+  workflow_dispatch:  # manual trigger button
+
+jobs:
+  submit-indexnow:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
+    steps:
+      - name: Submit sitemap URLs to IndexNow (Bing)
+        uses: jakob-bagterp/index-now-submit-sitemap-urls-action@v1
+        with:
+          host: alfred1893.github.io
+          api_key: b514a28584628eadaec4151f36301a10
+          api_key_location: https://alfred1893.github.io/alfie-insights/b514a28584628eadaec4151f36301a10.txt
+          endpoint: bing
+          sitemap_locations: https://alfred1893.github.io/alfie-insights/sitemap.xml
+
+      - name: Submit sitemap URLs to IndexNow (Yandex)
+        uses: jakob-bagterp/index-now-submit-sitemap-urls-action@v1
+        with:
+          host: alfred1893.github.io
+          api_key: b514a28584628eadaec4151f36301a10
+          api_key_location: https://alfred1893.github.io/alfie-insights/b514a28584628eadaec4151f36301a10.txt
+          endpoint: yandex
+          sitemap_locations: https://alfred1893.github.io/alfie-insights/sitemap.xml
+
+      - name: Log submission completion
+        run: |
+          echo "✅ IndexNow submission completed at $(date)"
+          echo "Site: https://alfred1893.github.io/alfie-insights/"
+          echo "Key file: https://alfred1893.github.io/alfie-insights/b514a28584628eadaec4151f36301a10.txt"

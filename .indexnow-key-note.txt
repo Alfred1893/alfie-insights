@@ -1,0 +1,13 @@
+IndexNow API Key for alfred1893.github.io
+==========================================
+Key: b514a28584628eadaec4151f36301a10
+Key file: docs/b514a28584628eadaec4151f36301a10.txt → published as https://alfred1893.github.io/alfie-insights/b514a28584628eadaec4151f36301a10.txt
+Workflow: .github/workflows/indexnow.yml
+
+Trigger conditions:
+- After every successful Pages build (auto)
+- 1st of each month at 03:00 UTC (cron)
+- Manual via GitHub Actions UI
+
+Setup: zero. No GitHub secrets needed (key is public per IndexNow protocol design).
+Verification: https://www.bing.com/webmasters → IndexNow → check submission log
