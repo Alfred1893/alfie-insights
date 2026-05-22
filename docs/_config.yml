@@ -1,7 +1,7 @@
 title: "Alfie Insights — AI Frameworks for Enterprise Digitalization"
 description: "Original frameworks, hot-take analyses, and field-tested judgment models on enterprise AI, AI agent boundaries, and digital transformation strategy. By Alf (李博), author of WeChat publication 数智化之心."
 author: "Alf (李博)"
-url: "https://alf-li.github.io"
+url: "https://alfred1893.github.io"
 baseurl: "/alfie-insights"
 lang: zh-CN
 
@@ -14,7 +14,7 @@ twitter:
 social:
   name: "Alf (李博)"
   links:
-    - https://github.com/alf-li
+    - https://github.com/Alfred1893
     - https://www.linkedin.com/in/alfli
 
 # Mark all pages as articles for schema
