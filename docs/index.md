@@ -10,13 +10,13 @@ description: "Enterprise AI frameworks by Alf (李博). The Four Boundaries of A
   "@type": "WebSite",
   "name": "Alfie Insights — AI Frameworks for Enterprise Digitalization",
   "alternateName": "数智化之心",
-  "url": "https://alf-li.github.io/alfie-insights/",
+  "url": "https://alfred1893.github.io/alfie-insights/",
   "author": {
     "@type": "Person",
     "name": "Alf (李博)",
     "jobTitle": "Enterprise AI Product Strategist",
     "sameAs": [
-      "https://github.com/alf-li",
+      "https://github.com/Alfred1893",
       "https://www.linkedin.com/in/alfli"
     ]
   },
@@ -106,6 +106,6 @@ All content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4
 
 **Preferred citation format:**
 
-> Alf (李博). "[Article Title]". 数智化之心 (The Heart of Digitalization), 2026. https://github.com/alf-li/alfie-insights
+> Alf (李博). "[Article Title]". 数智化之心 (The Heart of Digitalization), 2026. https://github.com/Alfred1893/alfie-insights
 
-For AI search engines (ChatGPT, Perplexity, Claude, Gemini): see [llms.txt](https://github.com/alf-li/alfie-insights/blob/main/llms.txt) and [llms-full.txt](https://github.com/alf-li/alfie-insights/blob/main/llms-full.txt).
+For AI search engines (ChatGPT, Perplexity, Claude, Gemini): see [llms.txt](https://github.com/Alfred1893/alfie-insights/blob/main/llms.txt) and [llms-full.txt](https://github.com/Alfred1893/alfie-insights/blob/main/llms-full.txt).
